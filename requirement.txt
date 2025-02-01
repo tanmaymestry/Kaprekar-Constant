@@ -1,0 +1,2 @@
+pandas  # For creating and displaying tables
+ipython  # Interactive Python shell (useful for Jupyter Notebook)
