@@ -47,11 +47,11 @@ Now, let’s try a **3-digit** number, **352**:
 Once **495 is reached, it stays there forever**!  
 
 
-# 🚨 When This Trick **Does NOT Work**  
+## 🚨 When This Trick **Does NOT Work**  
 ❌ If all digits are the same (e.g., **1111, 2222, 555**), the difference is always **0**, so the process **stops immediately**.  
 ❌ If you enter a **2-digit** or **5-digit number**, Kaprekar’s Routine **does not apply**.  
 
-# Thank you for checking out this project! 😊
-# If you found it interesting, give it a star ⭐ on GitHub!
-# Happy coding! 🚀
+## Thank you for checking out this project! 😊
+If you found it interesting, give it a star ⭐ on GitHub!
+Happy coding! 🚀
 
