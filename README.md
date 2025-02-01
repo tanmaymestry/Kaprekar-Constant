@@ -54,8 +54,7 @@ Once **495 is reached, it stays there forever**!
 
 ### 2️⃣ Clone this repository  
 
-git clone https://github.com/your-username/Kaprekar-Constant.git
-cd Kaprekar-Constant
+git clone: https://github.com/tanmaymestry/Kaprekar-Constant/blob/main/Kaprekar%20Constant.ipynb
 
 ## Thank you for checking out this project! 😊
 If you found it interesting, give it a star ⭐ on GitHub!
