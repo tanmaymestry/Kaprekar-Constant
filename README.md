@@ -52,7 +52,7 @@ Once **495 is reached, it stays there forever**!
 ❌ If you enter a **2-digit** or **5-digit number**, Kaprekar’s Routine **does not apply**.  
  
 
-### 2️⃣ Clone this repository  
+### Clone this repository  
 
 git clone: https://github.com/tanmaymestry/Kaprekar-Constant/blob/main/Kaprekar%20Constant.ipynb
 
